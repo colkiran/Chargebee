@@ -87,6 +87,42 @@ problems
 b. print all the prime numbers between 150 and 50, and also print the count of it
 
 
+Strings
+-------
+1. string are immutable
+
+
+Data structures
+---------------
+1. lists
+2. dictionaries
+3. tuples
+4. sets
+
+Lists
+------
+similar to arrays in other technologies
+
+array
+-----
+1. collection of homogenous data
+2. memory allocation is contigious
+
+Lists
+-----
+1. collection of hetrogenous data
+2. memory allocation is not contigious
+
+
+
+
+
+
+
+
+
+
+
 
 
 
