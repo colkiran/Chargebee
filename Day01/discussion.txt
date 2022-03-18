@@ -1,0 +1,98 @@
+python 
+------
+Open Source ->		
+
+Guido van Russum
+
+Desktop 	-> Python and TK
+Web App		-> FLASK, (MVC, REST API) Django, pyramid
+Mobile		-> kivy
+ETL			-> petl
+Data Science	=>	Data Analytics, ML, AI
+Testing		-> Pytest, selenium
+
+Python
+------
+2.x and 3.x
+
+3.10.x	(www.python.org)
+
+Editor
+------
+1. Notepad++
+2. pycharm (CE) (intelliJ)
+3. VS code (CE)
+4. sublime text
+5. Jupyter Notebook
+6. spyder
+
+Python 3.x
+-----------
+1. Python SDK
+2. IDLE				- integrated development environment
+3. Python Shell 	
+
+Operator's Overloaded
+---------------------
++, *
+
++ => addition and concatenation
+* => multiplication and print multiple times
+
+Module Name = os
+function	 = system
+---------------------------------------
+
+Module Name = imp
+function 	 = reload
+
+
+Datatypes in python
+-------------------
+1. Numbers
+	a. integers
+	b. float
+	c. complex numbers
+
+2. strings
+
+3. boolean
+
+Control Structures and Loops
+-----------------------------
+
+Control Structures 
+------------------
+if conditions
+
+Loops
+-----
+1. for loop
+2. while loop
+
+
+problems
+--------
+
+1 2 3 4 5
+ 1 2 3 4
+  1 2 3
+   1 2
+    1
+   1 2
+  1 2 3
+ 1 2 3 4
+1 2 3 4 5
+
+b. print all the prime numbers between 150 and 50, and also print the count of it
+
+
+
+
+
+
+
+
+
+
+ 
